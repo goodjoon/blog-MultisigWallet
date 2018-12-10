@@ -30,7 +30,7 @@ contract MultiSigWallet {
         bytes data;
         bool executed;
     }
-
+    
     modifier onlyWallet() {
         if (msg.sender != address(this))
             throw;
