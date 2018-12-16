@@ -142,3 +142,4 @@ fabric.properties
 .idea/httpRequests
 
 /.idea/
+/truffle/build/
