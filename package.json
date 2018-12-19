@@ -1,0 +1,22 @@
+{
+  "name": "multisigwallet",
+  "version": "1.0.0",
+  "description": "[MultiSigWalletWithDailyLimit.sol](https://github.com/ConsenSys/MultiSigWallet/blob/master/MultiSigWalletWithDailyLimit.sol) is the exact verified contract currently storing millions in assets:",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ConsenSys/MultiSigWallet.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ConsenSys/MultiSigWallet/issues"
+  },
+  "homepage": "https://github.com/ConsenSys/MultiSigWallet#readme",
+  "dependencies": {
+    "chai": "^4.2.0"
+  }
+}
